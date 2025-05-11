@@ -8,12 +8,11 @@
 
 ### Minhas linguagens principais: 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suellemaciel&hide_progress=true&locale=pt-br)ㅤㅤㅤㅤ![ezgif com-resize (2)](https://github.com/user-attachments/assets/44543e76-c56b-4bf0-989c-07659e381131) ㅤ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suellemaciel&hide_progress=true&locale=pt-br) 
 
 ### Saiba mais sobre mim: 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suellefmaciel/)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/suellemaciel)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31btzma6yg6cy46oombcimot66du)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suelle-ferreira-maciel/)
 
