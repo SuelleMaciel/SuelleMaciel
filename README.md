@@ -44,5 +44,5 @@ My name is Suelle Ferreira, a Computer Science undergraduate at the **State Univ
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTE3bDkxaW5mMXluam91MGJnd2JucmtwZzU0M3cwcnhneGFwaG1teiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JUayPtxhbRVYzRzv16/giphy.gif" alt="GIF" width="650" height="260"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTE3bDkxaW5mMXluam91MGJnd2JucmtwZzU0M3cwcnhneGFwaG1teiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JUayPtxhbRVYzRzv16/giphy.gif" alt="GIF" width="800" height="260"/>
 </p>
