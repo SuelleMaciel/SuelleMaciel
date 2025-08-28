@@ -3,13 +3,13 @@
 
 ### - Sobre mim:
 
-Meu nome é Suelle Ferreira, graduanda em Ciência da Computação na **Universidade Estadual da Paraíba** e uma aspirante a desenvolvedora de software.
+Meu nome é Suelle, graduanda em Ciência da Computação na **Universidade Estadual da Paraíba** e uma aspirante a desenvolvedora de software.
 
 ---
 
 ### - About me:
 
-My name is Suelle Ferreira, a Computer Science undergraduate at the **State University of Paraíba** and an aspiring software developer.
+My name is Suelle, a Computer Science undergraduate at the **State University of Paraíba** and an aspiring software developer.
 
 ---
 
