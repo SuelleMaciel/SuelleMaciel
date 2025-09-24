@@ -44,7 +44,8 @@ My name is Suelle, a Computer Science undergraduate at the **State University of
 <p align="center">
   <a href="https://www.instagram.com/suellefmaciel/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://open.spotify.com/user/31btzma6yg6cy46oombcimot66du"><img src="https://img.shields.io/badge/-Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/suelle-ferreira-maciel/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/suelle-maciel/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+  <a href="mailto:suellemaciel7@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
