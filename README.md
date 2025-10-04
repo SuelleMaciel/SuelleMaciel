@@ -16,8 +16,8 @@ My name is Suelle, a Computer Science undergraduate at the **State University of
 ### - GitHub Stats:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suellemaciel&show_icons=true&theme=dracula&locale=pt-br&include_all_repos=true"/>
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suellemaciel&layout=compact&langs_count=7&theme=dracula&locale=pt-br&include_all_repos=true"/> bugado -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suellemaciel&show_icons=true&theme=dracula&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suellemaciel&layout=compact&langs_count=7&theme=dracula&locale=pt-br&include_all_repos=true"/>
 </p>
 
 ---
