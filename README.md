@@ -5,13 +5,15 @@
 Meu nome é Suelle, sou graduanda em Ciência da Computação pela **Universidade Estadual da Paraíba**. Como uma futura desenvolvedora de software, meu foco atual está no aprimoramento contínuo de competências técnicas. Estou dedicando meus estudos ao desenvolvimento Back-End, com ênfase em **Java**, e, simultaneamente, ao aprimoramento das minhas habilidades em tecnologias Front-End, visando a capacidade de desenvolver soluções completas para problemas reais.
 
 ---
+
+<!--
 ### GitHub Stats:
 
 <div align="center" style="display: flex; justify-content: center;">  
   <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SuelleMaciel&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" />
   <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SuelleMaciel&count_private=true&layout=compact&hide_border=true&title_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" />
 </div>
-
+-->
 
 ### Tecnologias & Ferramentas:
 
